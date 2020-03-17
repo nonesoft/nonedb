@@ -1,0 +1,1 @@
+select to_char(current_timestamp,'DD/MM/YYYY HH24:MI:SS');
